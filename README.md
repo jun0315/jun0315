@@ -2,7 +2,7 @@
 
 **🎓 First-year master student at [Beihang University](https://www.buaa.edu.cn/)** **Majoring in Computer Science and Technology**
 
-💻 **Interested in distributed system, time-series database **
+💻 **Interested in distributed system, time-series database**
 
 **📫 Email: 1072505283@qq.com**
 
