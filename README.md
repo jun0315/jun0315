@@ -25,4 +25,23 @@
 5. 💪 Opened PR [#4694](https://github.com/apache/iotdb/pull/4694) in [apache/iotdb](https://github.com/apache/iotdb)
 <!--END_SECTION:activity-->
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=jun0315&show_icons=true&theme=radical&repo=jun0315.github.io&show_owner=true)](https://github.com/anuraghazra/github-readme-stats)
+
+<!-- START NEW SECTION -->
+<p align="center">
+ <h2 align="center">My Github Stats</h2>
+
+| Github Statistics                                                                                           | My Language                                                                                                                 |
+| ----------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------- |
+| ![github stats](https://github-readme-stats.vercel.app/api?username=jun0315&theme=dark&show_icons=true) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jun0315&hide=TeX&layout=compact&theme=dark) |
+
+<hr>
+
+<div align="center">
+<br><h2 align="centre"><b>Visitors Count</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{jun0315}/count.svg" /></p> 
+<br></div>
+
+<hr>
+
+![hezagon's github activity graph](https://activity-graph.herokuapp.com/graph?username=jun0315&theme=react-dark)
+
