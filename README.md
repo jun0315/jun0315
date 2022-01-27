@@ -18,11 +18,11 @@
 
 ### Recent Activities
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1504](https://github.com/Snailclimb/JavaGuide/issues/1504) in [Snailclimb/JavaGuide](https://github.com/Snailclimb/JavaGuide)
-2. 🗣 Commented on [#38](https://github.com/vldbss-2021/vldb-2021-labs/issues/38) in [vldbss-2021/vldb-2021-labs](https://github.com/vldbss-2021/vldb-2021-labs)
-3. 🗣 Commented on [#38](https://github.com/vldbss-2021/vldb-2021-labs/issues/38) in [vldbss-2021/vldb-2021-labs](https://github.com/vldbss-2021/vldb-2021-labs)
-4. 💪 Opened PR [#38](https://github.com/vldbss-2021/vldb-2021-labs/pull/38) in [vldbss-2021/vldb-2021-labs](https://github.com/vldbss-2021/vldb-2021-labs)
-5. 💪 Opened PR [#4953](https://github.com/apache/iotdb/pull/4953) in [apache/iotdb](https://github.com/apache/iotdb)
+1. 🗣 Commented on [#1512](https://github.com/Snailclimb/JavaGuide/issues/1512) in [Snailclimb/JavaGuide](https://github.com/Snailclimb/JavaGuide)
+2. ❗️ Closed issue [#1512](https://github.com/Snailclimb/JavaGuide/issues/1512) in [Snailclimb/JavaGuide](https://github.com/Snailclimb/JavaGuide)
+3. ❗️ Opened issue [#1512](https://github.com/Snailclimb/JavaGuide/issues/1512) in [Snailclimb/JavaGuide](https://github.com/Snailclimb/JavaGuide)
+4. 🗣 Commented on [#1504](https://github.com/Snailclimb/JavaGuide/issues/1504) in [Snailclimb/JavaGuide](https://github.com/Snailclimb/JavaGuide)
+5. 🗣 Commented on [#1504](https://github.com/Snailclimb/JavaGuide/issues/1504) in [Snailclimb/JavaGuide](https://github.com/Snailclimb/JavaGuide)
 <!--END_SECTION:activity-->
 
 
