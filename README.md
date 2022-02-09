@@ -16,6 +16,10 @@
 - Single-machine/distributed multi-service protocol unified access scheme
 - IoTDB self-metrics
 
+#### 🚀 [JavaGuide](https://github.com/Snailclimb/JavaGuide)
+
+- [Raft Algorithm](https://github.com/Snailclimb/JavaGuide/blob/main/docs/distributed-system/theorem%26algorithm%26protocol/raft-algorithm.md)
+
 ### Recent Activities
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#4535](https://github.com/apache/iotdb/issues/4535) in [apache/iotdb](https://github.com/apache/iotdb)
