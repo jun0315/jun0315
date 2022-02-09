@@ -18,7 +18,7 @@
 
 #### 🚀 [JavaGuide](https://github.com/Snailclimb/JavaGuide)
 
-- [Raft Algorithm](https://github.com/Snailclimb/JavaGuide/blob/main/docs/distributed-system/theorem%26algorithm%26protocol/raft-algorithm.md)
+- [Raft Algorithm](https://javaguide.cn/distributed-system/theorem&algorithm&protocol/raft-algorithm/)
 
 ### Recent Activities
 <!--START_SECTION:activity-->
