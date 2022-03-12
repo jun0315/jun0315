@@ -22,11 +22,11 @@
 
 ### Recent Activities
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1604](https://github.com/Snailclimb/JavaGuide/pull/1604) in [Snailclimb/JavaGuide](https://github.com/Snailclimb/JavaGuide)
-2. 💪 Opened PR [#5104](https://github.com/apache/iotdb/pull/5104) in [apache/iotdb](https://github.com/apache/iotdb)
-3. 🗣 Commented on [#4535](https://github.com/apache/iotdb/issues/4535) in [apache/iotdb](https://github.com/apache/iotdb)
-4. 🗣 Commented on [#1512](https://github.com/Snailclimb/JavaGuide/issues/1512) in [Snailclimb/JavaGuide](https://github.com/Snailclimb/JavaGuide)
-5. ❗️ Closed issue [#1512](https://github.com/Snailclimb/JavaGuide/issues/1512) in [Snailclimb/JavaGuide](https://github.com/Snailclimb/JavaGuide)
+1. 💪 Opened PR [#5206](https://github.com/apache/iotdb/pull/5206) in [apache/iotdb](https://github.com/apache/iotdb)
+2. 💪 Opened PR [#1604](https://github.com/Snailclimb/JavaGuide/pull/1604) in [Snailclimb/JavaGuide](https://github.com/Snailclimb/JavaGuide)
+3. 💪 Opened PR [#5104](https://github.com/apache/iotdb/pull/5104) in [apache/iotdb](https://github.com/apache/iotdb)
+4. 🗣 Commented on [#4535](https://github.com/apache/iotdb/issues/4535) in [apache/iotdb](https://github.com/apache/iotdb)
+5. 🗣 Commented on [#1512](https://github.com/Snailclimb/JavaGuide/issues/1512) in [Snailclimb/JavaGuide](https://github.com/Snailclimb/JavaGuide)
 <!--END_SECTION:activity-->
 
 
