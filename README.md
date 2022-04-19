@@ -20,11 +20,11 @@
 
 ### Recent Activities
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#270](https://github.com/thulab/iotdb-benchmark/issues/270) in [thulab/iotdb-benchmark](https://github.com/thulab/iotdb-benchmark)
-2. 💪 Opened PR [#270](https://github.com/thulab/iotdb-benchmark/pull/270) in [thulab/iotdb-benchmark](https://github.com/thulab/iotdb-benchmark)
-3. 🗣 Commented on [#5546](https://github.com/apache/iotdb/issues/5546) in [apache/iotdb](https://github.com/apache/iotdb)
-4. 💪 Opened PR [#5473](https://github.com/apache/iotdb/pull/5473) in [apache/iotdb](https://github.com/apache/iotdb)
-5. 🗣 Commented on [#5351](https://github.com/apache/iotdb/issues/5351) in [apache/iotdb](https://github.com/apache/iotdb)
+1. 💪 Opened PR [#5594](https://github.com/apache/iotdb/pull/5594) in [apache/iotdb](https://github.com/apache/iotdb)
+2. 🗣 Commented on [#271](https://github.com/thulab/iotdb-benchmark/issues/271) in [thulab/iotdb-benchmark](https://github.com/thulab/iotdb-benchmark)
+3. 💪 Opened PR [#271](https://github.com/thulab/iotdb-benchmark/pull/271) in [thulab/iotdb-benchmark](https://github.com/thulab/iotdb-benchmark)
+4. 🗣 Commented on [#270](https://github.com/thulab/iotdb-benchmark/issues/270) in [thulab/iotdb-benchmark](https://github.com/thulab/iotdb-benchmark)
+5. 💪 Opened PR [#270](https://github.com/thulab/iotdb-benchmark/pull/270) in [thulab/iotdb-benchmark](https://github.com/thulab/iotdb-benchmark)
 <!--END_SECTION:activity-->
 
 
