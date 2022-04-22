@@ -27,7 +27,7 @@
 5. 🗣 Commented on [#270](https://github.com/thulab/iotdb-benchmark/issues/270) in [thulab/iotdb-benchmark](https://github.com/thulab/iotdb-benchmark)
 <!--END_SECTION:activity-->
 
-![github contribution grid snake animation](https://raw.githubusercontent.com/erdengk/erdengk/output/github-contribution-grid-snake.svg)
+![github contribution grid snake animation](https://raw.githubusercontent.com/jun0315/jun0315/output/github-contribution-grid-snake.svg)
 
 <!-- START NEW SECTION -->
 <p align="center">
