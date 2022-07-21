@@ -2,7 +2,7 @@
 
 **🎓 First-year master student at [Beihang University](https://www.buaa.edu.cn/)** **Majoring in Computer Science and Technology**
 
-**📫 Email: 1072505283@qq.com**
+**📫 Email: qijun@apache.org**
 
 **☎️ Scan the [WeChat QR code](https://github.com/jun0315/jun0315/issues/1) to add me**
 
