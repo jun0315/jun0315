@@ -20,11 +20,11 @@
 
 ### Recent Activities
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#5014](https://github.com/apache/inlong/issues/5014) in [apache/inlong](https://github.com/apache/inlong)
-2. 💪 Opened PR [#6757](https://github.com/apache/iotdb/pull/6757) in [apache/iotdb](https://github.com/apache/iotdb)
-3. 🗣 Commented on [#4976](https://github.com/apache/inlong/issues/4976) in [apache/inlong](https://github.com/apache/inlong)
-4. 💪 Opened PR [#4766](https://github.com/seata/seata/pull/4766) in [seata/seata](https://github.com/seata/seata)
-5. 🗣 Commented on [#3275](https://github.com/apache/incubator-shenyu/issues/3275) in [apache/incubator-shenyu](https://github.com/apache/incubator-shenyu)
+1. 💪 Opened PR [#5225](https://github.com/apache/inlong/pull/5225) in [apache/inlong](https://github.com/apache/inlong)
+2. 🗣 Commented on [#5014](https://github.com/apache/inlong/issues/5014) in [apache/inlong](https://github.com/apache/inlong)
+3. 💪 Opened PR [#6757](https://github.com/apache/iotdb/pull/6757) in [apache/iotdb](https://github.com/apache/iotdb)
+4. 🗣 Commented on [#4976](https://github.com/apache/inlong/issues/4976) in [apache/inlong](https://github.com/apache/inlong)
+5. 💪 Opened PR [#4766](https://github.com/seata/seata/pull/4766) in [seata/seata](https://github.com/seata/seata)
 <!--END_SECTION:activity-->
 
 ![github contribution grid snake animation](https://raw.githubusercontent.com/jun0315/jun0315/output/github-contribution-grid-snake.svg)
