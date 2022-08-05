@@ -20,11 +20,11 @@
 
 ### Recent Activities
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#4976](https://github.com/apache/inlong/issues/4976) in [apache/inlong](https://github.com/apache/inlong)
-2. 🎉 Merged PR [#6828](https://github.com/apache/iotdb/pull/6828) in [apache/iotdb](https://github.com/apache/iotdb)
-3. 🗣 Commented on [#6828](https://github.com/apache/iotdb/issues/6828) in [apache/iotdb](https://github.com/apache/iotdb)
-4. 💪 Opened PR [#11067](https://github.com/redis/redis/pull/11067) in [redis/redis](https://github.com/redis/redis)
-5. 🗣 Commented on [#6828](https://github.com/apache/iotdb/issues/6828) in [apache/iotdb](https://github.com/apache/iotdb)
+1. 💪 Opened PR [#5379](https://github.com/apache/inlong/pull/5379) in [apache/inlong](https://github.com/apache/inlong)
+2. 🗣 Commented on [#4976](https://github.com/apache/inlong/issues/4976) in [apache/inlong](https://github.com/apache/inlong)
+3. 🎉 Merged PR [#6828](https://github.com/apache/iotdb/pull/6828) in [apache/iotdb](https://github.com/apache/iotdb)
+4. 🗣 Commented on [#6828](https://github.com/apache/iotdb/issues/6828) in [apache/iotdb](https://github.com/apache/iotdb)
+5. 💪 Opened PR [#11067](https://github.com/redis/redis/pull/11067) in [redis/redis](https://github.com/redis/redis)
 <!--END_SECTION:activity-->
 
 ![github contribution grid snake animation](https://raw.githubusercontent.com/jun0315/jun0315/output/github-contribution-grid-snake.svg)
