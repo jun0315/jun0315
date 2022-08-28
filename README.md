@@ -20,11 +20,11 @@
 
 ### Recent Activities
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#5389](https://github.com/apache/inlong/issues/5389) in [apache/inlong](https://github.com/apache/inlong)
-2. 🗣 Commented on [#5389](https://github.com/apache/inlong/issues/5389) in [apache/inlong](https://github.com/apache/inlong)
+1. 💪 Opened PR [#5725](https://github.com/apache/inlong/pull/5725) in [apache/inlong](https://github.com/apache/inlong)
+2. ❗️ Opened issue [#5724](https://github.com/apache/inlong/issues/5724) in [apache/inlong](https://github.com/apache/inlong)
 3. 🗣 Commented on [#5389](https://github.com/apache/inlong/issues/5389) in [apache/inlong](https://github.com/apache/inlong)
-4. 🗣 Commented on [#5379](https://github.com/apache/inlong/issues/5379) in [apache/inlong](https://github.com/apache/inlong)
-5. 💪 Opened PR [#5389](https://github.com/apache/inlong/pull/5389) in [apache/inlong](https://github.com/apache/inlong)
+4. 🗣 Commented on [#5389](https://github.com/apache/inlong/issues/5389) in [apache/inlong](https://github.com/apache/inlong)
+5. 🗣 Commented on [#5389](https://github.com/apache/inlong/issues/5389) in [apache/inlong](https://github.com/apache/inlong)
 <!--END_SECTION:activity-->
 
 ![github contribution grid snake animation](https://raw.githubusercontent.com/jun0315/jun0315/output/github-contribution-grid-snake.svg)
