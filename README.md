@@ -24,10 +24,10 @@
 
 ### Recent Activities
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#5389](https://github.com/apache/inlong/issues/5389) in [apache/inlong](https://github.com/apache/inlong)
-2. 💪 Opened PR [#5725](https://github.com/apache/inlong/pull/5725) in [apache/inlong](https://github.com/apache/inlong)
-3. ❗️ Opened issue [#5724](https://github.com/apache/inlong/issues/5724) in [apache/inlong](https://github.com/apache/inlong)
-4. 🗣 Commented on [#5389](https://github.com/apache/inlong/issues/5389) in [apache/inlong](https://github.com/apache/inlong)
+1. 🗣 Commented on [#7247](https://github.com/apache/iotdb/issues/7247) in [apache/iotdb](https://github.com/apache/iotdb)
+2. 🗣 Commented on [#5389](https://github.com/apache/inlong/issues/5389) in [apache/inlong](https://github.com/apache/inlong)
+3. 💪 Opened PR [#5725](https://github.com/apache/inlong/pull/5725) in [apache/inlong](https://github.com/apache/inlong)
+4. ❗️ Opened issue [#5724](https://github.com/apache/inlong/issues/5724) in [apache/inlong](https://github.com/apache/inlong)
 5. 🗣 Commented on [#5389](https://github.com/apache/inlong/issues/5389) in [apache/inlong](https://github.com/apache/inlong)
 <!--END_SECTION:activity-->
 
