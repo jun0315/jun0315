@@ -1,6 +1,6 @@
 ### About Me
 
-**🎓 First-year master student at [Beihang University](https://www.buaa.edu.cn/)** **Majoring in Computer Science and Technology**
+**🎓 Second-year master student at [Beihang University](https://www.buaa.edu.cn/)** **Majoring in Computer Science and Technology**
 
 **📫 Email: qijun@apache.org**
 
@@ -13,6 +13,10 @@
 - [InfluxDB Protocol](https://iotdb.apache.org/zh/UserGuide/Master/API/InfluxDB-Protocol.html)
 - Single-machine/distributed multi-service protocol unified access scheme
 - IoTDB self-metrics
+
+#### 🚀 [Apache Inlong](https://github.com/apache/inlong/pulls?q=+is%3Apr+author%3Ajun0315)
+
+- [Manager module support kafka](https://github.com/apache/inlong/pull/5389)     Collaborators:[zcy1010](https://github.com/zcy1010)
 
 #### 🚀 [JavaGuide](https://github.com/Snailclimb/JavaGuide)
 
