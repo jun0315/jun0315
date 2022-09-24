@@ -18,9 +18,6 @@
 
 - [Manager module support kafka](https://github.com/apache/inlong/pull/5389)     Collaborators:[zcy1010](https://github.com/zcy1010)
 
-#### 🚀 [JavaGuide](https://github.com/Snailclimb/JavaGuide)
-
-- [Raft Algorithm](https://javaguide.cn/distributed-system/theorem&algorithm&protocol/raft-algorithm/)
 
 ### Recent Activities
 <!--START_SECTION:activity-->
