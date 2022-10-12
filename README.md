@@ -21,11 +21,11 @@
 
 ### Recent Activities
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#11067](https://github.com/redis/redis/issues/11067) in [redis/redis](https://github.com/redis/redis)
-2. 🗣 Commented on [#11067](https://github.com/redis/redis/issues/11067) in [redis/redis](https://github.com/redis/redis)
+1. ❌ Closed PR [#5379](https://github.com/apache/inlong/pull/5379) in [apache/inlong](https://github.com/apache/inlong)
+2. 🗣 Commented on [#5379](https://github.com/apache/inlong/issues/5379) in [apache/inlong](https://github.com/apache/inlong)
 3. 🗣 Commented on [#11067](https://github.com/redis/redis/issues/11067) in [redis/redis](https://github.com/redis/redis)
-4. 🗣 Commented on [#7247](https://github.com/apache/iotdb/issues/7247) in [apache/iotdb](https://github.com/apache/iotdb)
-5. 🗣 Commented on [#5389](https://github.com/apache/inlong/issues/5389) in [apache/inlong](https://github.com/apache/inlong)
+4. 🗣 Commented on [#11067](https://github.com/redis/redis/issues/11067) in [redis/redis](https://github.com/redis/redis)
+5. 🗣 Commented on [#11067](https://github.com/redis/redis/issues/11067) in [redis/redis](https://github.com/redis/redis)
 <!--END_SECTION:activity-->
 
 ![github contribution grid snake animation](https://raw.githubusercontent.com/jun0315/jun0315/output/github-contribution-grid-snake.svg)
