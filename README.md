@@ -14,10 +14,6 @@
 - Single-machine/distributed multi-service protocol unified access scheme
 - IoTDB self-metrics
 
-#### 🚀 [Apache Inlong](https://github.com/apache/inlong/pulls?q=+is%3Apr+author%3Ajun0315)
-
-- [Manager module support kafka](https://github.com/apache/inlong/pull/5389)     Collaborators:[zcy1010](https://github.com/zcy1010)
-
 
 ### Recent Activities
 <!--START_SECTION:activity-->
