@@ -17,10 +17,10 @@
 
 ### Recent Activities
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#7652](https://github.com/apache/iotdb/pull/7652) in [apache/iotdb](https://github.com/apache/iotdb)
-2. ❌ Closed PR [#5379](https://github.com/apache/inlong/pull/5379) in [apache/inlong](https://github.com/apache/inlong)
-3. 🗣 Commented on [#5379](https://github.com/apache/inlong/issues/5379) in [apache/inlong](https://github.com/apache/inlong)
-4. 🗣 Commented on [#11067](https://github.com/redis/redis/issues/11067) in [redis/redis](https://github.com/redis/redis)
+1. 🗣 Commented on [#7424](https://github.com/apache/iotdb/issues/7424) in [apache/iotdb](https://github.com/apache/iotdb)
+2. 💪 Opened PR [#7652](https://github.com/apache/iotdb/pull/7652) in [apache/iotdb](https://github.com/apache/iotdb)
+3. ❌ Closed PR [#5379](https://github.com/apache/inlong/pull/5379) in [apache/inlong](https://github.com/apache/inlong)
+4. 🗣 Commented on [#5379](https://github.com/apache/inlong/issues/5379) in [apache/inlong](https://github.com/apache/inlong)
 5. 🗣 Commented on [#11067](https://github.com/redis/redis/issues/11067) in [redis/redis](https://github.com/redis/redis)
 <!--END_SECTION:activity-->
 
