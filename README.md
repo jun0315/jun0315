@@ -17,11 +17,11 @@
 
 ### Recent Activities
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#12](https://github.com/KeeProMise/iotdb/pull/12) in [KeeProMise/iotdb](https://github.com/KeeProMise/iotdb)
-2. 🎉 Merged PR [#11](https://github.com/KeeProMise/iotdb/pull/11) in [KeeProMise/iotdb](https://github.com/KeeProMise/iotdb)
-3. 💪 Opened PR [#11](https://github.com/KeeProMise/iotdb/pull/11) in [KeeProMise/iotdb](https://github.com/KeeProMise/iotdb)
-4. 💪 Opened PR [#7858](https://github.com/apache/iotdb/pull/7858) in [apache/iotdb](https://github.com/apache/iotdb)
-5. ❌ Closed PR [#7652](https://github.com/apache/iotdb/pull/7652) in [apache/iotdb](https://github.com/apache/iotdb)
+1. 🎉 Merged PR [#12](https://github.com/KeeProMise/iotdb/pull/12) in [KeeProMise/iotdb](https://github.com/KeeProMise/iotdb)
+2. 💪 Opened PR [#12](https://github.com/KeeProMise/iotdb/pull/12) in [KeeProMise/iotdb](https://github.com/KeeProMise/iotdb)
+3. 🎉 Merged PR [#11](https://github.com/KeeProMise/iotdb/pull/11) in [KeeProMise/iotdb](https://github.com/KeeProMise/iotdb)
+4. 💪 Opened PR [#11](https://github.com/KeeProMise/iotdb/pull/11) in [KeeProMise/iotdb](https://github.com/KeeProMise/iotdb)
+5. 💪 Opened PR [#7858](https://github.com/apache/iotdb/pull/7858) in [apache/iotdb](https://github.com/apache/iotdb)
 <!--END_SECTION:activity-->
 
 ![github contribution grid snake animation](https://raw.githubusercontent.com/jun0315/jun0315/output/github-contribution-grid-snake.svg)
