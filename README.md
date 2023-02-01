@@ -18,10 +18,10 @@
 ### Recent Activities
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#755](https://github.com/GreptimeTeam/greptimedb/issues/755) in [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb)
-2. ❌ Closed PR [#7858](https://github.com/apache/iotdb/pull/7858) in [apache/iotdb](https://github.com/apache/iotdb)
-3. 🗣 Commented on [#2252](https://github.com/4paradigm/OpenMLDB/issues/2252) in [4paradigm/OpenMLDB](https://github.com/4paradigm/OpenMLDB)
-4. 🎉 Merged PR [#17](https://github.com/KeeProMise/iotdb/pull/17) in [KeeProMise/iotdb](https://github.com/KeeProMise/iotdb)
-5. 🎉 Merged PR [#16](https://github.com/KeeProMise/iotdb/pull/16) in [KeeProMise/iotdb](https://github.com/KeeProMise/iotdb)
+2. 🗣 Commented on [#755](https://github.com/GreptimeTeam/greptimedb/issues/755) in [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb)
+3. 🗣 Commented on [#755](https://github.com/GreptimeTeam/greptimedb/issues/755) in [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb)
+4. ❌ Closed PR [#7858](https://github.com/apache/iotdb/pull/7858) in [apache/iotdb](https://github.com/apache/iotdb)
+5. 🗣 Commented on [#2252](https://github.com/4paradigm/OpenMLDB/issues/2252) in [4paradigm/OpenMLDB](https://github.com/4paradigm/OpenMLDB)
 <!--END_SECTION:activity-->
 
 ![github contribution grid snake animation](https://raw.githubusercontent.com/jun0315/jun0315/output/github-contribution-grid-snake.svg)
