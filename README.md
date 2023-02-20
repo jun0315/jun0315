@@ -9,10 +9,10 @@
 
 ### Recent Activities
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#3081](https://github.com/4paradigm/OpenMLDB/pull/3081) in [4paradigm/OpenMLDB](https://github.com/4paradigm/OpenMLDB)
-2. 💪 Opened PR [#1026](https://github.com/GreptimeTeam/greptimedb/pull/1026) in [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb)
-3. 💪 Opened PR [#998](https://github.com/GreptimeTeam/greptimedb/pull/998) in [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb)
-4. 🗣 Commented on [#942](https://github.com/GreptimeTeam/greptimedb/issues/942) in [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb)
+1. ❗️ Opened issue [#1039](https://github.com/GreptimeTeam/greptimedb/issues/1039) in [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb)
+2. 💪 Opened PR [#3081](https://github.com/4paradigm/OpenMLDB/pull/3081) in [4paradigm/OpenMLDB](https://github.com/4paradigm/OpenMLDB)
+3. 💪 Opened PR [#1026](https://github.com/GreptimeTeam/greptimedb/pull/1026) in [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb)
+4. 💪 Opened PR [#998](https://github.com/GreptimeTeam/greptimedb/pull/998) in [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb)
 5. 🗣 Commented on [#942](https://github.com/GreptimeTeam/greptimedb/issues/942) in [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb)
 <!--END_SECTION:activity-->
 
