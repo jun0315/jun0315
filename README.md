@@ -9,11 +9,11 @@
 
 ### Recent Activities
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#10233](https://github.com/datafuselabs/databend/issues/10233) in [datafuselabs/databend](https://github.com/datafuselabs/databend)
-2. 💪 Opened PR [#1058](https://github.com/GreptimeTeam/greptimedb/pull/1058) in [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb)
-3. 💪 Opened PR [#203](https://github.com/GreptimeTeam/docs/pull/203) in [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs)
-4. ❗️ Opened issue [#1039](https://github.com/GreptimeTeam/greptimedb/issues/1039) in [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb)
-5. 💪 Opened PR [#3081](https://github.com/4paradigm/OpenMLDB/pull/3081) in [4paradigm/OpenMLDB](https://github.com/4paradigm/OpenMLDB)
+1. 🗣 Commented on [#1058](https://github.com/GreptimeTeam/greptimedb/issues/1058) in [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb)
+2. 🗣 Commented on [#1058](https://github.com/GreptimeTeam/greptimedb/issues/1058) in [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb)
+3. 🗣 Commented on [#10233](https://github.com/datafuselabs/databend/issues/10233) in [datafuselabs/databend](https://github.com/datafuselabs/databend)
+4. 💪 Opened PR [#1058](https://github.com/GreptimeTeam/greptimedb/pull/1058) in [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb)
+5. 💪 Opened PR [#203](https://github.com/GreptimeTeam/docs/pull/203) in [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs)
 <!--END_SECTION:activity-->
 
 ![github contribution grid snake animation](https://raw.githubusercontent.com/jun0315/jun0315/output/github-contribution-grid-snake.svg)
