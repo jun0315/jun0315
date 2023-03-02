@@ -26,5 +26,3 @@
 
 <hr>
 
-![hezagon's github activity graph](https://activity-graph.herokuapp.com/graph?username=jun0315&theme=react-dark)
-
