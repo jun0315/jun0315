@@ -9,11 +9,11 @@
 
 ### Recent Activities
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#203](https://github.com/GreptimeTeam/docs/issues/203) in [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs)
-2. 💪 Opened PR [#1095](https://github.com/GreptimeTeam/greptimedb/pull/1095) in [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb)
-3. 🗣 Commented on [#1058](https://github.com/GreptimeTeam/greptimedb/issues/1058) in [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb)
+1. 🗣 Commented on [#1095](https://github.com/GreptimeTeam/greptimedb/issues/1095) in [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb)
+2. 🗣 Commented on [#203](https://github.com/GreptimeTeam/docs/issues/203) in [GreptimeTeam/docs](https://github.com/GreptimeTeam/docs)
+3. 💪 Opened PR [#1095](https://github.com/GreptimeTeam/greptimedb/pull/1095) in [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb)
 4. 🗣 Commented on [#1058](https://github.com/GreptimeTeam/greptimedb/issues/1058) in [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb)
-5. 🗣 Commented on [#10233](https://github.com/datafuselabs/databend/issues/10233) in [datafuselabs/databend](https://github.com/datafuselabs/databend)
+5. 🗣 Commented on [#1058](https://github.com/GreptimeTeam/greptimedb/issues/1058) in [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb)
 <!--END_SECTION:activity-->
 
 ![github contribution grid snake animation](https://raw.githubusercontent.com/jun0315/jun0315/output/github-contribution-grid-snake.svg)
