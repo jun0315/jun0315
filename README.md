@@ -2,7 +2,6 @@
 
 **📫 Email: qijun@apache.org**
 
-**☎️ Scan the [WeChat QR code](https://github.com/jun0315/jun0315/issues/1) to add me**
 
 
 ### Recent Activities
